@@ -1,0 +1,12 @@
+torch==1.10.1
+torchaudio==0.10.1
+scipy
+numpy==1.18.5
+tqdm
+pytz
+
+matplotlib>=3.3.1
+torchvision==0.11.2
+tensorboard
+
+setuptools==59.5.0
