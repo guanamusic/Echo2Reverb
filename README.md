@@ -1,11 +1,12 @@
 # Echo2Reverb: Echo-Aware Room Impulse Response Generation
-[S. Kim, J.-H. Yoo, and J.-W. Choi, "Echo-aware room impulse response generation," The Journal of the Acoustical Society of America 156(1), 623&ndash;637 (2024).](https://doi.org/10.1121/10.0027931)
+### [Paper](https://doi.org/10.1121/10.0027931) | [Project page](https://guanamusic.github.io/Echo2Reverb-demo/)
 
 This repository provides the official implementation (PyTorch) of "Echo-aware room impulse response generation," namely <U>*Echo2Reverb*</U>.
 
 <img src='imgs/dr_ned.png'/>
 
-\
+S. Kim, J.-H. Yoo, and J.-W. Choi, "Echo-aware room impulse response generation," The Journal of the Acoustical Society of America 156(1), 623&ndash;637 (2024).
+
 If you want to learn more about our studies, please visit [soundlab](http://www.sound.kaist.ac.kr)!
 
 ## Setup
